@@ -7,4 +7,6 @@ get '/newteam' do
     erb :newteam
 end
 
+
+
 end
